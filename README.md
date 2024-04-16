@@ -1,3 +1,3 @@
 # useContext
 
-Este repositorio incluye el principio básico del hooks useContext
+Este código incluye el principio básico del hook useContext
